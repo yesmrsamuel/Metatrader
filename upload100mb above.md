@@ -1,3 +1,5 @@
+git clone git@github.com:yesmrsamuel/Metatrader.git
+
 ###
 ###
 git lfs install
